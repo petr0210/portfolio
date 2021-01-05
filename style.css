@@ -47,6 +47,18 @@ h2 {
     font-size: 25px;
 }
 
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
 #first_section {
     width: 100%;
     height: 100vh;
