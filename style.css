@@ -51,12 +51,19 @@ h3 {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
     font-size: 30px;
+    background-color: #CDC1BF;
+}
+
+h4 {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 25px;
 }
 
 p {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
-    font-size: 25px;
+    font-size: 18px;
 }
 
 #first_section {
