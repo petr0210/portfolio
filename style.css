@@ -19,6 +19,7 @@ header {
     margin-left: 10 auto;
 }
 
+
 a:link {
     color: black;
 }
@@ -73,6 +74,21 @@ p {
     background-size: cover;
     background-position: 25% 10%;
     max-width: none;
+}
+
+#fourth_section .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#fifth_section .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#sixth_section .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 @media (min-width: 300px) {
