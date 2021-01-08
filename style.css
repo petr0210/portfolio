@@ -19,7 +19,6 @@ header {
     margin-left: 10 auto;
 }
 
-
 a:link {
     color: black;
 }
@@ -87,6 +86,12 @@ p {
 }
 
 #sixth_section .section_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+#seven_section .section_wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
